@@ -12,7 +12,6 @@ blinker==1.4
 boto==2.49.0
 brotlipy==0.7.0
 comtypes==1.1.10
-conda==4.14.0
 conda-build==3.21.9
 conda-verify==3.4.2
 convertdate==2.4.0
